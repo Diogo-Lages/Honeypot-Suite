@@ -109,6 +109,10 @@ Honeypot-Suite/
 - Avoid logging sensitive information from legitimate users.
 - Ensure compliance with local laws and regulations regarding data collection.
 
+---
 
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 
