@@ -109,13 +109,6 @@ Honeypot-Suite/
 - Avoid logging sensitive information from legitimate users.
 - Ensure compliance with local laws and regulations regarding data collection.
 
----
-
-## Contributing
- Contributions are welcome! To contribute:
- 1. Fork the repository.
- 2. Create a new branch for your changes.
- 3. Submit a pull request with detailed descriptions of your updates.
 
 
 
