@@ -1,7 +1,7 @@
 # Honeypot-Suite
 
 ## Description
-Honeypot-Suite is a modular Python-based tool that simulates multiple network protocols (HTTPS, DNS, SSH, FTP, PostgreSQL) to attract and analyze malicious activities. It helps researchers and security professionals gather insights into attacker behavior and strengthen their defenses.
+Honeypot-Suite is a modular Python-based tool that simulates multiple network protocols (HTTPS, DNS, SSH, FTP, PostgreSQL) to attract and analyze malicious activities.
 
 ---
 
