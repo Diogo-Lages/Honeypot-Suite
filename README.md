@@ -1,17 +1,3 @@
-**`Honeypot-Suite`**
-
----
-
-### **Description for the Repository**
-A multi-protocol honeypot suite designed to simulate HTTPS, DNS, SSH, FTP, and PostgreSQL services for cybersecurity research and threat intelligence gathering.
-
----
-
-### **README.md Content**
-
-Below is a simple and professional `README.md` for your repository:
-
-```markdown
 # Honeypot-Suite
 
 ## Description
