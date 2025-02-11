@@ -78,8 +78,7 @@ Honeypot-Suite/
 ├── ftp_honeypot.py         # FTP honeypot implementation
 ├── postgresql_honeypot.py  # PostgreSQL honeypot implementation
 ├── menu.py                 # Centralized GUI for managing honeypots
-├── README.md               # Project documentation
-└── logs/                   # Directory for storing log files
+└── README.md               # Project documentation
 ```
 
 ---
