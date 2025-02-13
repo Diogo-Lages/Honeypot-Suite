@@ -25,7 +25,7 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Diogo-Lages/Honeypot-Suite.git
-   cd Honeypot-Suite
+   cd Honeypot_Suite
    ```
 
 2. Install dependencies:
